@@ -70,7 +70,7 @@ public class estudiante {
     @Override // es para sobrescribir sobre un objeto y se adapta
     //object es la clase principal  de java, estudiante hereda la de object que esd una super clase
     public String toString() {
-        return "Estudiante [matricula=" + matricula + ", nombre=" + nombre + ", promedio=" + promedio + "]";
+        return "Estudiante [matricula=" + matricula + ", nombre=" + nombre + ", promedio=estructuras" + promedio + "]";
     }
     
 }
